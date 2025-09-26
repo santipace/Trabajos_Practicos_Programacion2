@@ -8,4 +8,7 @@
  * @author Santi
  */
 public class Ejercicio1 {
+        public static void main(String[] args) {
+        System.out.println("Ingrese la categoría del producto (A, B o C): ");
+        }
 }
